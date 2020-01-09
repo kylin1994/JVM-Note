@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="-224 -28 1724 732" width="1724" height="732">
+  <defs>
+    <font-face font-family="PingFang SC" font-size="16" panose-1="2 11 4 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-150" underline-thickness="58" slope="0" x-height="600" cap-height="860" ascent="1060.0021" descent="-340.0007" font-weight="400">
+      <font-face-src>
+        <font-face-name name="PingFangSC-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <linearGradient x1="0" x2="1" id="Gradient" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9e9e9e"/>
+      <stop offset=".45238096" stop-color="#8c8c8c"/>
+      <stop offset="1" stop-color="#797979"/>
+    </linearGradient>
+    <linearGradient id="Obj_Gradient" xl:href="#Gradient" gradientTransform="translate(438.0045 531.0986) rotate(-179.99019) scale(32)"/>
+    <linearGradient id="Obj_Gradient_2" xl:href="#Gradient" gradientTransform="translate(455 531.5) scale(32)"/>
+    <linearGradient id="Obj_Gradient_3" xl:href="#Gradient" gradientTransform="translate(729.875 531.5) rotate(180) scale(32)"/>
+    <linearGradient id="Obj_Gradient_4" xl:href="#Gradient" gradientTransform="translate(747.3678 531.5) scale(32)"/>
+    <linearGradient id="Obj_Gradient_5" xl:href="#Gradient" gradientTransform="translate(595.75 575.5) rotate(90) scale(33)"/>
+    <linearGradient id="Obj_Gradient_6" xl:href="#Gradient" gradientTransform="translate(852 574.5) rotate(90) scale(33)"/>
+    <font-face font-family="Helvetica" font-size="15" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="PingFang SC" font-size="15" panose-1="2 11 4 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-150" underline-thickness="58" slope="0" x-height="600" cap-height="860" ascent="1060.0021" descent="-340.0007" font-weight="400">
+      <font-face-src>
+        <font-face-name name="PingFangSC-Regular"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.11.4 
+    <dc:date>2020-01-09 15:24:48 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <rect x="330.5" y="284" width="621" height="219" fill="#ccc"/>
+        <rect x="330.5" y="284" width="621" height="219" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(335.5 289)" fill="black">
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="257.5" y="17">运行时数据区</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <rect x="362" y="326" width="176" height="64" fill="red"/>
+        <rect x="362" y="326" width="176" height="64" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(367 336)" fill="black">
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="59" y="17">方法区</tspan>
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="35.088" y="39">Method Area</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <rect x="560.75" y="326" width="176" height="64" fill="#ff8080"/>
+        <rect x="560.75" y="326" width="176" height="64" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(565.75 337.776)" fill="black">
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="51" y="17">虚拟机栈</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="48.472" y="37">VM Stack</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <rect x="759.5" y="326" width="176" height="64" fill="#ff8080"/>
+        <rect x="759.5" y="326" width="176" height="64" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(764.5 336)" fill="black">
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="43" y="17">本地方法栈</tspan>
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="5.128" y="39">Native Method Stack</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <rect x="362" y="418" width="176" height="64" fill="red"/>
+        <rect x="362" y="418" width="176" height="64" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(367 429.776)" fill="black">
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="75" y="17">堆</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="63.888" y="37">Heap</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <rect x="583" y="418" width="331.75" height="64" fill="#ff8080"/>
+        <rect x="583" y="418" width="331.75" height="64" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(588 429.776)" fill="black">
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="120.875" y="17">程序计数器</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="68.867" y="37">Program counter Register</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <rect x="362" y="649.5" width="15.5" height="17.5" fill="red"/>
+        <rect x="362" y="649.5" width="15.5" height="17.5" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_10">
+        <rect x="362" y="678.5" width="15.5" height="17.5" fill="#ff8080"/>
+        <rect x="362" y="678.5" width="15.5" height="17.5" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_11">
+        <rect x="362" y="560" width="176" height="64" fill="#ccc"/>
+        <rect x="362" y="560" width="176" height="64" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(367 581)" fill="black">
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="51" y="17">执行引擎</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <rect x="647.75" y="560" width="176" height="64" fill="#ccc"/>
+        <rect x="647.75" y="560" width="176" height="64" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(652.75 581)" fill="black">
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="43" y="17">本地库接口</tspan>
+        </text>
+      </g>
+      <g id="Graphic_14">
+        <path d="M 414.00904 504.69037 L 430.00905 504.6931 L 430.00343 537.5014 L 438.0034 537.50274 L 422 557.5 L 406.00343 537.49726 L 414.0034 537.4986 Z" fill="url(#Obj_Gradient)"/>
+        <path d="M 414.00904 504.69037 L 430.00905 504.6931 L 430.00343 537.5014 L 438.0034 537.50274 L 422 557.5 L 406.00343 537.49726 L 414.0034 537.4986 Z" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_16">
+        <path d="M 479 558.5 L 463 558.5 L 463 524.5 L 455 524.5 L 471 504.5 L 487 524.5 L 479 524.5 Z" fill="url(#Obj_Gradient_2)"/>
+        <path d="M 479 558.5 L 463 558.5 L 463 524.5 L 455 524.5 L 471 504.5 L 487 524.5 L 479 524.5 Z" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_17">
+        <path d="M 705.875 504.5 L 721.875 504.5 L 721.875 538.5 L 729.875 538.5 L 713.875 558.5 L 697.875 538.5 L 705.875 538.5 Z" fill="url(#Obj_Gradient_3)"/>
+        <path d="M 705.875 504.5 L 721.875 504.5 L 721.875 538.5 L 729.875 538.5 L 713.875 558.5 L 697.875 538.5 L 705.875 538.5 Z" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_18">
+        <path d="M 771.3678 558.5 L 755.3678 558.5 L 755.3678 524.5 L 747.3678 524.5 L 763.3678 504.5 L 779.3678 524.5 L 771.3678 524.5 Z" fill="url(#Obj_Gradient_4)"/>
+        <path d="M 771.3678 558.5 L 755.3678 558.5 L 755.3678 524.5 L 747.3678 524.5 L 763.3678 504.5 L 779.3678 524.5 L 771.3678 524.5 Z" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_19">
+        <path d="M 560.75 600.25 L 560.75 583.75 L 610.75 583.75 L 610.75 575.5 L 630.75 592 L 610.75 608.5 L 610.75 600.25 Z" fill="url(#Obj_Gradient_5)"/>
+        <path d="M 560.75 600.25 L 560.75 583.75 L 610.75 583.75 L 610.75 575.5 L 630.75 592 L 610.75 608.5 L 610.75 600.25 Z" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_20">
+        <text transform="translate(885.25 579.5)" fill="black">
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="0" y="17">本地方法库</tspan>
+        </text>
+      </g>
+      <g id="Graphic_21">
+        <path d="M 830 599.25 L 830 582.75 L 854 582.75 L 854 574.5 L 874 591 L 854 607.5 L 854 599.25 Z" fill="url(#Obj_Gradient_6)"/>
+        <path d="M 830 599.25 L 830 582.75 L 854 582.75 L 854 574.5 L 874 591 L 854 607.5 L 854 599.25 Z" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_22">
+        <text transform="translate(396 647.25)" fill="black">
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="0" y="17">由所有线程共享的数据区</tspan>
+        </text>
+      </g>
+      <g id="Graphic_23">
+        <text transform="translate(396 676.25)" fill="black">
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="0" y="17">线程隔离的数据区</tspan>
+        </text>
+      </g>
+      <g id="Graphic_24">
+        <path d="M 1009 382 L 1499 382 L 1499 546 L 1009 546 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        <text transform="translate(1014 387)" fill="black">
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="0" y="17">程序计数器是一块较小的内存空间，可以看做当前线程执行字节码的</tspan>
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="0" y="39">行号指示器。字节码解释器通过改变PC的值来选取下一条需要执行</tspan>
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="0" y="61">的字节码指令。</tspan>
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="0" y="83">为了使线程切换后能准确恢复，每个线程都有独立的程序计数器。</tspan>
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="0" y="105">如果线程执行的是一个Java方法，PC记录的是正在执行虚拟机字节</tspan>
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="0" y="127">码指令的地址，如果是一个Native方法，则为空Undefine。</tspan>
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="0" y="149">此内存区域是JVM规范唯一一个没有OutOfMemoryError的区域。</tspan>
+        </text>
+      </g>
+      <g id="Graphic_26">
+        <path d="M 311.5 -27 L 986 -27 L 986 235 L 311.5 235 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        <text transform="translate(316.5 -22)" fill="black">
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" x="0" y="16">Java</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="16">虚拟机栈是线程私有的，它的生命周期与线程相同。虚拟机栈描述的是</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="16">Java</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="16">方法执行的内存模</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="37">型：每个方法在执行的同时都会创建一个栈帧（</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="37">Stack Frame</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="37">）用于存储局部变量表、操作数栈、动</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="58">态链接、方法出口等信息。每一个方法从调用直至执行完成的过程，就对应着一个栈帧在虚拟机栈中</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="79">入栈到出栈的过程。</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="100">局部变量表存放了编译期可知的各种基本数据类型（</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="100">boolean</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="100">、</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="100">byte</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="100">、</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="100">char</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="100">、</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="100">short</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="100">、</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="100">int</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="100">、</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="100">loat</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="100">、</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="100">long</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="100">、</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" x="0" y="121">double</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="121">）、对象引用（</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="121">reference</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="121">类型，它不等同于对象本身，可能是一个指向对象起始地址的引用指</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="142">针，也可能是指向一个代表对象的句柄或其他与此对象相关的位置）和</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="142">returnAddress</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="142">类型（指向了一</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="163">条字节码指令的地址）。</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="184">其中</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="184">64</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="184">位长度的</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="184">long</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="184">和</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="184">double</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="184">类型的数据会占用</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="184">2</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="184">个局部变量空间（</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="184">Slot</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="184">），其余的数据类型只占用</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="184">1</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="205">个。局部变量表所需的内存空间在编译期间完成分配，当进入一个方法时，这个方法需要在帧中分配</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="226">多大的局部变量空间是完全确定的，在方法运行期间不会改变局部变量表的大小。</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="247">可抛出StackOverflowError和OutOfMemoryError。</tspan>
+        </text>
+      </g>
+      <g id="Graphic_27">
+        <path d="M 1009 158 L 1484 158 L 1484 315 L 1009 315 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        <text transform="translate(1014 163)" fill="black">
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="16">本地方法栈与虚拟机栈所发挥的作用是非常相似的，它们之间的区别不</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="37">过是虚拟机栈为虚拟机执行</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="37">Java</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="37">方法（也就是字节码）服务，而本地</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="58">方法栈则为虚拟机使用到的</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="58">Native</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="58">方法服务。在虚拟机规范中对本地方</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="79">法栈中方法使用的语言、使用方式与数据结构并没有强制规定，因此具</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="100">体的虚拟机可以自由实现它。甚至有的虚拟机（譬如</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="100">Sun HotSpot</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="100">虚拟</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="121">机）直接就把本地方法栈和虚拟机栈合二为一。与虚拟机栈一样，本地</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="142">方法栈区域也会抛出</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="142">StackOverflowError</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="142">和</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="142">OutOfMemoryError</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="142">异常。</tspan>
+        </text>
+      </g>
+      <g id="Graphic_28">
+        <path d="M -212 261 L 267 261 L 267 586 L -212 586 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        <text transform="translate(-207 266)" fill="black">
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" x="0" y="16">Java</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="16">堆是被所有线程共享的一块内存区域，在虚拟机启动时创建。此内</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="37">存区域的唯一目的就是存放对象实例，几乎所有的对象实例都在这里分</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="58">配内存。这一点在</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="58">Java</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="58">虚拟机规范中的描述是：所有的对象实例以及数</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="79">组都要在堆上分配。</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" x="0" y="100">Java</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="100">堆是垃圾收集器管理的主要区域。从内存回收的角度来看，由于现</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="121">在收集器基本都采用分代收集算法，所以</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="121">Java</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="121">堆中还可以细分为：新生</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="142">代和老年代；再细致一点的有</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="142">Eden</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="142">空间、</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="142">From Survivor</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="142">空间、</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="142">To </tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" x="0" y="163">Survivor</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="163">空间等。从内存分配的角度来看，线程共享的</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="163">Java</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="163">堆中可能划</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="184">分出多个线程私有的分配缓冲区（</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="184">Thread Local Allocation </tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" x="0" y="205">Buffer,TLAB</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="205">）。</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="226">根据</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="226">Java</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="226">虚拟机规范的规定，</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="226">Java</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="226">堆可以处于物理上不连续的内存空间</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="247">中，只要逻辑上是连续的即可。在实现时，既可以实现成固定大小的，</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="268">也可以是可扩展的，不过当前主流的虚拟机都是按照可扩展来实现的</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="289">（通过</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="289">-Xmx</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="289">和</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="289">-Xms</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="289">控制）。如果在堆中没有内存完成实例分配，并且</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="310">堆也无法再扩展时，将会抛出</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="310">OutOfMemoryError</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="310">异常。</tspan>
+        </text>
+      </g>
+      <g id="Graphic_29">
+        <path d="M -223 11 L 267 11 L 267 231 L -223 231 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        <text transform="translate(-218 16)" fill="black">
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="16">方法区（</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="16">Method Area</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="16">）与</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="16">Java</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="16">堆一样，是各个线程共享的内存区域，它</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="37">用于存储已被虚拟机加载的类信息、常量、静态变量、即时编译器编译后</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="58">的代码等数据。虽然</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="58">Java</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="58">虚拟机规范把方法区描述为堆的一个逻辑部</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="79">分，但是它却有一个别名叫做</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="79">Non-Heap</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="79">（非堆），目的应该是与</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="79">Java</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="79">堆</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="100">区分开来。</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="142">运行时常量池（</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="142">Runtime Constant Pool</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="142">）是方法区的一部分。</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="142">Class</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="142">文件</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="163">中除了有类的版本、字段、方法、接口等描述信息外，还有一项信息是常</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="184">量池（</tspan>
+          <tspan font-family="Helvetica" font-size="15" font-weight="400" fill="black" y="184">Constant Pool Table</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" y="184">），用于存放编译期生成的各种字面量和符号</tspan>
+          <tspan font-family="PingFang SC" font-size="15" font-weight="400" fill="black" x="0" y="205">引用，这部分内容将在类加载后进入方法区的运行时常量池中存放。</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
